@@ -1,4 +1,4 @@
-![alt text](https://github.com/bytehackr/BHPsec/BHPsec.png)
+![alt text](https://github.com/ByteHackr/BHPsec/blob/master/BHPsec.png)
 
 
 # BHP Security
